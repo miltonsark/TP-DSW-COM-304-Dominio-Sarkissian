@@ -6,8 +6,8 @@
 * 49687 - Dominio, Constanza - (Com 304)
 
 ### Repositorios
-* [frontend app]()
-* [backend app]()
+* [frontend app](https://github.com/miltonsark/Tp-Dsw-FrontEnd) · [pull requests](https://github.com/Ignacioramirez98/Tp-Dsw-FrontEnd/pulls?q=is%3Apr+is%3Amerged)
+* [backend app](https://github.com/miltonsark/Tp-Dsw-BackEnd) · [pull requests](https://github.com/Ignacioramirez98/Tp-Dsw-BackEnd/pulls?q=is%3Apr+is%3Amerged)
 
 ## Tema
 ### Descripción
@@ -15,7 +15,7 @@
 
 ### Modelo
 
-![imagen del modelo](https://github.com/Ignacioramirez98/Tp-Dsw-Com304-305-Dominio-Ramirez-Sarkissian/blob/main/modeloFinal.jpg)
+![imagen del modelo](modeloFinal.jpg)
 
 ## Alcance Funcional 
 
